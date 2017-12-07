@@ -1,5 +1,5 @@
 # CyNix_OS_64
-DevOS wiki says I should be l33t before I do this, but screw it. 
+OSDev wiki says I should be l33t before I do this, but screw it. 
 
 Building this on an AMD x86_64 architecture (core i5-4690k) 
 
